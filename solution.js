@@ -8,7 +8,6 @@ const person = {
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 const team = []
 team['reference'] = players;
-console.log(team) 
 
 const team1 = [...players]
 const cap1 =Object.assign({},person)
